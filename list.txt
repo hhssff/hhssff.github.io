@@ -1,38 +1,186 @@
-1,http://61.51.122.50:8888/newlive/live/hls/1/live.m3u8
-2,http://61.51.122.50:8888/newlive/live/hls/2/live.m3u8
-3,http://61.51.122.50:8888/newlive/live/hls/3/live.m3u8
-4,http://61.51.122.50:8888/newlive/live/hls/4/live.m3u8
-5,http://61.51.122.50:8888/newlive/live/hls/5/live.m3u8
-6,http://61.51.122.50:8888/newlive/live/hls/6/live.m3u8
-7,http://61.51.122.50:8888/newlive/live/hls/7/live.m3u8
-8,http://61.51.122.50:8888/newlive/live/hls/8/live.m3u8
-9,http://61.51.122.50:8888/newlive/live/hls/9/live.m3u8
-18,http://61.51.122.50:8888/newlive/live/hls/18/live.m3u8
-19,http://61.51.122.50:8888/newlive/live/hls/19/live.m3u8
-20,http://61.51.122.50:8888/newlive/live/hls/20/live.m3u8
-21,http://61.51.122.50:8888/newlive/live/hls/21/live.m3u8
-22,http://61.51.122.50:8888/newlive/live/hls/22/live.m3u8
-23,http://61.51.122.50:8888/newlive/live/hls/23/live.m3u8
-24,http://61.51.122.50:8888/newlive/live/hls/24/live.m3u8
-25,http://61.51.122.50:8888/newlive/live/hls/25/live.m3u8
-26,http://61.51.122.50:8888/newlive/live/hls/26/live.m3u8
-27,http://61.51.122.50:8888/newlive/live/hls/27/live.m3u8
-28,http://61.51.122.50:8888/newlive/live/hls/28/live.m3u8
-29,http://61.51.122.50:8888/newlive/live/hls/29/live.m3u8
-30,http://61.51.122.50:8888/newlive/live/hls/30/live.m3u8
-31,http://61.51.122.50:8888/newlive/live/hls/31/live.m3u8
-32,http://61.51.122.50:8888/newlive/live/hls/32/live.m3u8
-33,http://61.51.122.50:8888/newlive/live/hls/33/live.m3u8
-34,http://61.51.122.50:8888/newlive/live/hls/34/live.m3u8
-35,http://61.51.122.50:8888/newlive/live/hls/35/live.m3u8
-36,http://61.51.122.50:8888/newlive/live/hls/36/live.m3u8
-37,http://61.51.122.50:8888/newlive/live/hls/37/live.m3u8
-38,http://61.51.122.50:8888/newlive/live/hls/38/live.m3u8
-39,http://61.51.122.50:8888/newlive/live/hls/39/live.m3u8
-40,http://61.51.122.50:8888/newlive/live/hls/40/live.m3u8
-41,http://61.51.122.50:8888/newlive/live/hls/41/live.m3u8
-42,http://61.51.122.50:8888/newlive/live/hls/42/live.m3u8
-43,http://61.51.122.50:8888/newlive/live/hls/43/live.m3u8
+CCTV1, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
+CCTV1, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
+CCTV1, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
+CCTV1, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225812/index.m3u8
+CCTV2, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV2, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
+CCTV2, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226795/index.m3u8
+CCTV2, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
+CCTV3, http://183.251.61.207/PLTV/88888888/224/3221227055/index.m3u8
+CCTV4, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+CCTV5, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8
+CCTV5, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV5, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+CCTV5, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
+CCTV6, http://183.251.61.207/PLTV/88888888/224/3221227137/index.m3u8
+CCTV7, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV7, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
+CCTV7, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
+CCTV8, http://183.251.61.207/PLTV/88888888/224/3221227174/index.m3u8
+CCTV9, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV9, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
+CCTV9, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
+CCTV10, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV10, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
+CCTV10, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
+CCTV11, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV11, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
+CCTV12, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV12, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
+CCTV12, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
+CCTV13, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+CCTV14, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV14, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
+CCTV14, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
+CCTV15, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV15, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
+CCTV16, http://183.251.61.207/PLTV/88888888/224/3221227148/index.m3u8
+CCTV16, http://183.251.61.207/PLTV/88888888/224/3221227125/index.m3u8
+CCTV17, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV17, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
+CCTV17, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
+CETV1, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CGTN, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+CGTN, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+CGTN, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
+CGTN纪录, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
+NewTV中国功夫, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV中国功夫, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/index.m3u8
+NewTV东北热剧, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV古装剧场, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+NewTV古装剧场, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8
+NewTV军事评论, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV军事评论, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/index.m3u8
+NewTV军旅剧场, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8
+NewTV农业致富, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV动作电影, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV动作电影, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
+NewTV欢乐剧场, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV明星大片, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV明星大片, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
+NewTV金牌综艺, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV金牌综艺, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
+NewTV炫舞未来, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+NewTV炫舞未来, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/index.m3u8
+NewTV家庭剧场, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV家庭剧场, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
+NewTV海外剧场, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
+NewTV爱情喜剧, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV爱情喜剧, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8
+NewTV健康有约, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/index.m3u8
+NewTV惊悚悬疑, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV惊悚悬疑, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8
+NewTV超级电视剧, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV超级电影, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV超级体育, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV超级综艺, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV搏击, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV精品大剧, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV精品大剧, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8
+NewTV精品记录, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8 NewTV健康有约
+NewTV精品纪录, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
+NewTV精品体育, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8 NewTV军旅剧场
+NewTV精品体育, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
+NewTV潮妈辣婆, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV潮妈辣婆, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8
+上海五星体育 7M1080, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8
+上海纪实人文, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
+上海哈哈炫动, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225872/index.m3u8
+山东卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225843/index.m3u8
+山东教育卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+山东教育卫视 3.5M576, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225873/index.m3u8
+山西卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+山西卫视 576[768*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225839/index.m3u8
+广东卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225824/index.m3u8
+广西卫视 576, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225836/index.m3u8
+中国教育1 576[768*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225869/index.m3u8
+云南卫视 576[785*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225853/index.m3u8
+内蒙古卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+内蒙古卫视 576[768*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225846/index.m3u8
+天津卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+天津卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225830/index.m3u8
+东方卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8
+东南卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+厦门卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
+东南卫视 576[785*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8
+冬奥纪实, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+北京卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225826/index.m3u8
+北京冬奥纪实, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
+北京卡酷少儿 4M576[768*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225871/index.m3u8
+卡酷少儿, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+四川卫视 3.5M576, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225835/index.m3u8
+宁夏卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+宁夏卫视 576[768*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225849/index.m3u8
+甘肃卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+甘肃卫视 576, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225845/index.m3u8
+优漫卡通, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+吉林卫视 576[768*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225851/index.m3u8
+安徽卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/index.m3u8
+江西卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225834/index.m3u8
+江苏卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+江苏卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8
+江苏优漫卡通, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225874/index.m3u8
+百事通体育2, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
+百事通体育3, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8
+百视通体育1, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226564/index.m3u8
+纪实人文, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+西藏卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+西藏卫视 576[785*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226847/index.m3u8
+辽宁卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+辽宁卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225832/index.m3u8
+纯享4K 20M2160[3840*2160], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+河北卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
+河北卫视 576, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225837/index.m3u8
+河南卫视 576, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225842/index.m3u8
+金鹰卡通, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+青海卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+青海卫视 3.5M576, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225841/index.m3u8
+青海安多卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+信号测试 5M1080, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226866/index.m3u8
+信号测试 5M1080[1920*1080], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
+哈哈炫动, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+贵州卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
+贵州卫视 576[785*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225838/index.m3u8
+重庆卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
+重庆卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/index.m3u8
+陕西卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+陕西卫视 3.5M576, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225850/index.m3u8
+浙江卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+浙江卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225825/index.m3u8
+海南卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
+海南卫视 576, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225855/index.m3u8
+康巴卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+康巴卫视 576[768*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225856/index.m3u8
+深圳卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+深圳卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/index.m3u8
+厦门1, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/index.m3u8
+厦门2, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/index.m3u8
+厦门3, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/index.m3u8
+湖北卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+湖北卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/index.m3u8
+湖南卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+湖南卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225827/index.m3u8
+湖南先锋乒羽 576[785*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
+湖南快乐垂钓, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8
+湖南金鹰卡通 7M1080[1920*1080], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
+湖南金鹰纪实 7M1080[1920*1080], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
+湖南茶频道 576[785*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
+黑龙江卫视, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225862/index.m3u8
+黑莓电竞, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8
+黑莓电影, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓电影, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
+黑莓动画, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+黑莓动画, http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
+新疆卫视, http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+新疆卫视 576[768*576], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225852/index.m3u8
+网课1 7M1080[1920*1080], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+网课2 7M1080[1920*1080], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
+网课3 7M1080[1920*1080], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
+网课4 7M1080[1920*1080], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
+网课11 7M1080[1920*1080], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+网课12 7M1080[1920*1080], http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
+
+
 44,http://61.51.122.50:8888/newlive/live/hls/44/live.m3u8
 45,http://61.51.122.50:8888/newlive/live/hls/45/live.m3u8
 46,http://61.51.122.50:8888/newlive/live/hls/46/live.m3u8
