@@ -1,4 +1,4 @@
-成人，#genre#
+成人,#genre#
 松视1台,http://45.89.104.154:8898/gaoying336.php?id=946
 松视2台,http://45.89.104.154:8898/gaoying336.php?id=947
 松视3台,http://45.89.104.154:8898/gaoying336.php?id=948
