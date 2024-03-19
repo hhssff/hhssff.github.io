@@ -18,6 +18,7 @@ CCTV15 , http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV16 , http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 CCTV17 , http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 东南卫视 , http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8
+海峡卫视 , http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
 厦门卫视 , http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
 江苏卫视 , http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225847/index.m3u8
 四川卫视 , http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225835/index.m3u8
