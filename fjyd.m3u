@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U group-title="福建移动"
 #EXTINF:-1 logo="" group-title="" ,CCTV1
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 logo="" group-title="" ,CCTV2
